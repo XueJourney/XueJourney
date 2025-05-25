@@ -9,7 +9,7 @@
 
 - 💬 向我询问关于 **Python** 的问题
 
-- 📫 如何联系我 **admin@xinghuo.website**
+- 📫 如何联系我 **admin@xuejourney.xin**
 
 <h3 align="left">与我联系：</h3>
 <p align="left">
